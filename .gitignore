@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pth
+*.bin
+data/
+.env
+.DS_Store
+venv/
+*.png
+.vscode/
